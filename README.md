@@ -1,1 +1,1 @@
-# [WIP] VSCode Md Formatter
+# [WIP] VSCode Md Footer
