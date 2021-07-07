@@ -1,6 +1,6 @@
 {
-   "name": "vscode-md-footer",
-   "displayName": "VSCode Md Footer",
+   "name": "md-footer",
+   "displayName": "Md Footer",
    "description": "Generate markdown footer links.",
    "publisher": "k-kuroguro",
    "version": "1.0.0",
@@ -21,14 +21,14 @@
       "url": "https://github.com/k-kuroguro/vscode-md-footer/issues"
    },
    "activationEvents": [
-      "onCommand:vscode-md-footer.generateFooter"
+      "onCommand:md-footer.generateFooter"
    ],
    "main": "./dist/extension.js",
    "contributes": {
       "commands": [
          {
-            "command": "vscode-md-footer.generateFooter",
-            "category": "VSCode Md Footer",
+            "command": "md-footer.generateFooter",
+            "category": "Md Footer",
             "title": "Generate Footer",
             "enablement": "editorLangId == markdown"
          }

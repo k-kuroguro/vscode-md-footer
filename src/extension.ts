@@ -3,7 +3,7 @@ import { convert } from './convert';
 
 export function activate(context: ExtensionContext) {
    context.subscriptions.push(
-      commands.registerCommand('vscode-md-footer.generateFooter', generateFooter)
+      commands.registerCommand('md-footer.generateFooter', generateFooter)
    );
 }
 
