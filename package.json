@@ -1,6 +1,6 @@
 {
 	"name": "vscode-md-footer",
-	"displayName": "vscode-md-footer",
+	"displayName": "VSCode Md Footer",
 	"description": "Generate markdown footer links.",
 	"publisher": "k-kuroguro",
 	"version": "0.0.1",
