@@ -7,45 +7,45 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   inkscape:export-ydpi="36.280853"
-   inkscape:export-xdpi="36.280853"
-   inkscape:export-filename="C:\Users\81701\Downloads\描画.png"
-   sodipodi:docname="描画.svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 210 297"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\81701\Downloads\描画.png"
+   inkscape:export-xdpi="36.280853"
+   inkscape:export-ydpi="36.280853"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs2">
     <rect
-       id="rect861"
-       height="46.905802"
-       width="102.89877"
+       x="42.36222"
        y="124.01306"
-       x="42.36222" />
+       width="102.89877"
+       height="46.905802"
+       id="rect861" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-9"
-     inkscape:window-x="2391"
-     inkscape:window-height="1001"
-     inkscape:window-width="1920"
-     inkscape:snap-text-baseline="false"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="397.99385"
-     inkscape:cx="387.52789"
-     inkscape:zoom="1.4"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-562.9038"
+     inkscape:cy="397.44685"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -58,40 +58,43 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
-     inkscape:label="レイヤー 1">
-    <circle
-       r="43.305996"
-       cy="103.97983"
-       cx="103.97983"
-       id="path871"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="layer1">
     <g
-       style="opacity:0.998"
-       transform="matrix(0.26458333,0,0,0.26458333,76.463,73.807803)"
-       id="g847">
-      <rect
-         width="198"
-         height="118"
-         x="5"
-         y="5"
-         ry="10"
-         stroke="#000000"
-         stroke-width="10"
-         fill="none"
-         id="rect833" />
-      <path
-         d="M 30,98 V 30 H 50 L 70,55 90,30 h 20 V 98 H 90 V 59 L 70,84 50,59 v 39 z m 125,0 -30,-33 h 20 V 30 h 20 v 35 h 20 z"
-         id="path835" />
+       id="g870">
+      <circle
+         r="43.305996"
+         cy="103.97983"
+         cx="103.97983"
+         id="path871"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         style="opacity:0.998"
+         transform="matrix(0.26458333,0,0,0.26458333,76.463,73.807803)"
+         id="g847">
+        <rect
+           width="198"
+           height="118"
+           x="5"
+           y="5"
+           ry="10"
+           stroke="#000000"
+           stroke-width="10"
+           fill="none"
+           id="rect833" />
+        <path
+           d="M 30,98 V 30 H 50 L 70,55 90,30 h 20 V 98 H 90 V 59 L 70,84 50,59 v 39 z m 125,0 -30,-33 h 20 V 30 h 20 v 35 h 20 z"
+           id="path835" />
+      </g>
+      <text
+         transform="matrix(1.4643676,0,0,1.7294034,6.8421956,-105.97028)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect861);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00017;stroke-miterlimit:4;stroke-dasharray:none;"
+         id="text859"
+         xml:space="preserve"><tspan
+           x="42.361328"
+           y="133.66914"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00017;stroke-miterlimit:4;stroke-dasharray:none">FOOTER</tspan></tspan></text>
     </g>
-    <text
-       transform="matrix(1.4643676,0,0,1.7294034,6.8421956,-105.97028)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect861);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00017;stroke-miterlimit:4;stroke-dasharray:none;"
-       id="text859"
-       xml:space="preserve"><tspan
-         x="42.361328"
-         y="133.66914"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00017;stroke-miterlimit:4;stroke-dasharray:none">FOOTER</tspan></tspan></text>
   </g>
 </svg>
