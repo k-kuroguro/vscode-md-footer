@@ -1,23 +1,25 @@
 {
 	"name": "vscode-md-footer",
 	"displayName": "vscode-md-footer",
-	"description": "",
+	"description": "Generate markdown footer links.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
 	],
 	"activationEvents": [
-		"onCommand:vscode-md-footer.helloWorld"
+		"onCommand:vscode-md-footer.generateFooter"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "vscode-md-footer.helloWorld",
-				"title": "Hello World"
+				"command": "vscode-md-footer.generateFooter",
+				"category": "VSCode Md Footer",
+				"title": "Generate Footer",
+				"enablement": "editorLangId == markdown"
 			}
 		]
 	},
