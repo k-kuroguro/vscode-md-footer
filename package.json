@@ -4,7 +4,7 @@
    "description": "Generate markdown footer links.",
    "publisher": "k-kuroguro",
    "version": "1.0.0",
-   "icon": "./resources/icon.png",
+   "icon": "resources/icon.png",
    "engines": {
       "vscode": "^1.57.0"
    },
