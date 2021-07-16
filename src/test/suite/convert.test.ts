@@ -23,7 +23,7 @@ suite('Convert Test Suite', () => {
          const input = fs.readFileSync(path.join(__dirname, 'test.md', `test${i}.in`)).toString();
          const expectOutput = fs.readFileSync(path.join(__dirname, 'test.md', `test${i}.out`)).toString();
          const output = convert(input);
-         assert.strictEqual(output, expectOutput);
+         assert.strictEqual(output.replace(/\r\n/g, '\n'), expectOutput.replace(/\r\n/g, '\n')); //consistent eol
       });
    }
 

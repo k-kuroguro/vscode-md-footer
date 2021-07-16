@@ -9,7 +9,7 @@ export function activate(context: ExtensionContext) {
 
 export function deactivate() { }
 
-function generateFooter() {
+function generateFooter(): void {
    if (!window.activeTextEditor) return;
    const editor = window.activeTextEditor;
    const start = new Position(0, 0);

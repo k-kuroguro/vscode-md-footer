@@ -22,6 +22,7 @@ export function convert(text: string): string {
          isHyperLink = true;
       } else if (c === ')' && !isCodeBlock && isHyperLink) {
          isHyperLink = false;
+
          if (hyperLink !== '') {
             const link = hyperLink;
             let pointer = -1;
