@@ -2,7 +2,7 @@
 VSCode extension for generating markdown footer links via command.
 This extension uses [md-footer][1] rewritten by typescript.
 
-[marketplace][2]
+[MarketPlace][2]
 
 # Demo
 ![Demo](resources/demo.gif)
