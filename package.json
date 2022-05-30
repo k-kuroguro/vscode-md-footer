@@ -3,7 +3,7 @@
    "displayName": "Md Footer",
    "description": "Generate markdown footer links.",
    "publisher": "k-kuroguro",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "icon": "resources/icon.png",
    "engines": {
       "vscode": "^1.57.0"
