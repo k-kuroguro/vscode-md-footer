@@ -3,7 +3,7 @@
    "displayName": "Md Footer",
    "description": "Generate markdown footer links.",
    "publisher": "k-kuroguro",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "icon": "resources/icon.png",
    "engines": {
       "vscode": "^1.57.0"
@@ -67,6 +67,7 @@
       "webpack-cli": "^4.4.0"
    },
    "dependencies": {
+      "md-footer": "^1.0.3",
       "node": "^16.4.0"
    }
 }
